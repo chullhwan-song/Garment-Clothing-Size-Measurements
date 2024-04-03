@@ -2,7 +2,7 @@
 * KeyPoint Detection
   * DeepFashion2 Datasets : [[link]](https://github.com/switchablenorms/DeepFashion2)
   * Deep High-Resolution Representation Learning for Human Pose Estimation : [[link]](https://arxiv.org/abs/1902.09212)
-* Reference Object (Aruco Marker) : [[link]](https://pysource.com/2021/05/28/measure-size-of-an-object-with-opencv-aruco-marker-and-python/)
+* Distance Measure : [[link]](https://pysource.com/2021/05/28/measure-size-of-an-object-with-opencv-aruco-marker-and-python/)
 * Result
   ![image](https://github.com/chullhwan-song/Garment-Clothing-Size-Measurements/assets/40360823/9113bf1c-f676-4f16-9baa-7d0e0617383e)
   ![image](https://github.com/chullhwan-song/Garment-Clothing-Size-Measurements/assets/40360823/4aeb49d7-90fe-4469-ac59-995ac8c4db05)
